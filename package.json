@@ -1,5 +1,5 @@
 {
-    "name": "img-zoom",
+    "name": "@khancirhan/img-zoom",
     "version": "1.0.0",
     "description": "A completely responsive image zoom library based on js",
     "main": "img-zoom.js",
