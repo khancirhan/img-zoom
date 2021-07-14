@@ -1,0 +1,27 @@
+{
+    "name": "img-zoom",
+    "version": "1.0.0",
+    "description": "A completely responsive image zoom library based on js",
+    "main": "img-zoom.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Khan Cirhan",
+    "license": "ISC",
+    "keywords": [
+        "zoom",
+        "wheelzoom",
+        "js",
+        "javascript",
+        "vanilla",
+        "mousewheel",
+        "image zoom",
+        "image scale",
+        "drag scrollable image",
+        "zoom"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/khancirhan/img-zoom.git"
+    }
+}
